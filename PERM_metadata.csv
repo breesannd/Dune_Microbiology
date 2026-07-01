@@ -1,0 +1,64 @@
+Sample Name:,Field,Morphology,GrainSize,Moisture,Oxides,Clay,Indurated,Armored,Mudcracks
+MF.4B,Mesquite,Interdune,,2,0,1,0,0,1
+MF.5B,Mesquite,Stoss,0.75,0,1,0,0,0,0
+MF.6B,Mesquite,Lee,0.75,0,1,0,0,0,0
+MF.7B,Mesquite,Interdune,,2,0,1,0,0,0
+MF.8B,Mesquite,Interdune,,2,0,1,1,0,0
+MF.11A,Mesquite,Interdune,,2,0,1,1,0,0
+MF.12A,Mesquite,Interdune,,2,0,1,0,0,0
+MF.13A,Mesquite,Stoss,0.75,0,0,0,0,0,0
+MF.14B,Mesquite,Lee,1.75,0,0,0,0,0,0
+MF.15A,Mesquite,Interdune,,2,0,1,0,0,1
+MF.16A,Mesquite,Stoss,0.74,2,0,0,0,0,0
+MF.17A,Mesquite,Lee,1.23,0,1,0,0,0,0
+MF.18B,Mesquite,Interdune,,2,0,1,0,0,0
+MF.19A,Mesquite,Stoss,0.23,0,1,0,0,0,0
+MF.20A,Mesquite,Lee,0.74,0,0,0,0,0,0
+MF.27B,Mesquite,Interdune,,2,0,1,0,0,0
+MF.28A,Mesquite,"Interdune, Depth",1.23,2,1,0,0,0,0
+MF.30A,Mesquite,Lee,0.74,0,1,0,0,0,0
+MF.31B,Mesquite,"Stoss, Depth",0.74,0,1,0,0,0,0
+MF.33A,Mesquite,Interdune,1.23,2,0,0,0,0,0
+ED.01A,Eureka,Stoss,0.74,0,0,0,0,0,0
+ED.02B,Eureka,Stoss,1.23,1,0,0,0,0,0
+ED.03A,Eureka,Lee,0.74,0,0,0,0,0,0
+ED.04A,Eureka,Lee,1.23,0,0,0,0,0,0
+ED.05A,Eureka,Lee,1.23,0,1,0,0,0,0
+ED.06A,Eureka,Stoss,1.74,0,1,0,0,0,0
+ED.08A,Eureka,Stoss,1.74,1,1,0,0,0,0
+ED.09A,Eureka,Lee,1.23,0,0,0,0,0,0
+ED.10A,Eureka,Stoss,0.74,1,0,0,0,0,0
+ED.11A,Eureka,Lee,1.23,0,0,0,0,0,0
+ED.12A,Eureka,"Stoss, Star",1.74,0,0,0,0,0,0
+ED.13A,Eureka,"Stoss, Star",1.23,0,0,0,0,0,0
+ED.14B,Eureka,"Lee, Star",1.74,0,0,0,0,0,0
+ED.15B,Eureka,"Stoss, Star",1.74,0,0,0,0,0,0
+ED.16A,Eureka,"Stoss, Star",1.23,0,0,0,0,0,0
+ED.17B,Eureka,Stoss,1.23,0,0,0,0,0,0
+ED.18A,Eureka,Lee,1.74,0,0,0,0,0,0
+ED.19A,Eureka,Stoss,1.74,0,1,0,0,0,0
+ED.20A,Eureka,Stoss,1.74,0,1,0,0,0,0
+ED.21A,Eureka,Lee,1.23,0,0,0,0,0,0
+ED.22A,Eureka,Lee,1.23,0,1,0,0,0,0
+ED.23A,Eureka,Lee,1.23,0,0,0,0,0,0
+ED.24A,Eureka,Lee,1.23,0,0,0,0,0,0
+ED.33A,Eureka,Interdune,,0,0,0,0,0,0
+IX.1B,Ibex,Interdune,0.23,0,0,0,0,0,0
+IX.2A,Ibex,Stoss,1.23,0,0,0,0,0,0
+IX.3A,Ibex,Stoss,1.74,0,0,0,0,0,0
+IX.4B,Ibex,Stoss,1.74,0,0,0,0,0,0
+IX.5A,Ibex,Lee,1.74,0,0,0,0,0,0
+IX.6A,Ibex,Lee,1.23,0,0,0,0,0,0
+IX.7A,Ibex,Interdune,1.23,0,0,0,0,0,0
+IX.8A,Ibex,Lee,0.23,0,0,0,0,1,0
+IX.9A,Ibex,"Stoss, Crest",0.23,0,0,0,0,1,0
+IX.10A,Ibex,Lee,0.23,0,0,0,0,1,0
+IX.10CM.A,Ibex,"Interdune, Depth",0.74,2,0,0,0,0,0
+IX.20CM.B,Ibex,"Interdune, Depth",1.23,2,0,0,0,0,0
+IX.30CM.A,Ibex,"Interdune, Depth",0.23,1,0,0,0,0,0
+IX.40CM.A,Ibex,"Interdune, Depth",0.23,0,1,0,0,0,0
+IX.50CM.A,Ibex,"Interdune, Depth",0.23,0,1,0,0,0,0
+IX.60CM.A,Ibex,"Interdune, Depth",0.23,0,0,0,0,0,0
+IX.70CM.A,Ibex,"Interdune, Depth",0.74,0,0,0,0,0,0
+IX.80CM.A,Ibex,"Interdune, Depth",0.74,0,0,0,0,0,0
+BLANK,Other,"Interdune, Depth",,0,0,0,0,0,0
